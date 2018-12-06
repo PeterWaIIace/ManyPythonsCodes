@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-2"?>
+<zespol>
+<pracownik>
+  <imie>jan</imie>
+  <nazwisko>kowalski</nazwisko>
+  <e-mail>jan.kowalski@mojafirma.zikurat.pl</e-mail>
+  <stanowisko>mlodszy_akolita_elektroniki</stanowisko></pracownik>
+<pracownik>
+  <imie>Marcin</imie>
+  <nazwisko>Krawiec</nazwisko>
+  <e-mail>Marcin.Krawiec@mojafirma.zikurat.pl</e-mail>
+  <stanowisko>elektronik</stanowisko></pracownik></zespol>

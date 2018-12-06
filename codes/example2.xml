@@ -1,0 +1,26 @@
+<zespol>
+<pracownik>
+  <imie>test</imie>
+  <nazwisko>
+    kowalski
+  </nazwisko>
+  <e-mail>
+    jan.kowalski@mojafirma.hajs.pl
+  </e-mail>
+  <stanowisko>
+    programista
+  </stanowisko>
+</pracownik>
+<pracownik>
+  <imie>test</imie>
+  <nazwisko>
+    Krawiec
+  </nazwisko>
+  <e-mail>
+    Marcin.Krawiec@mojafirma.hajs.pl
+  </e-mail>
+  <stanowisko>
+    elektronik
+  </stanowisko>
+</pracownik>
+</zespol>

@@ -8,6 +8,7 @@ regex=re.compile(r'(\s+)why(\s+)|(\s)+[\w]*self(\s)+|(\s)+and(\s)+|(\s*)never(\s
 for nfile in fileslist:
     f = open(nfile,"r")
     for line in f:
-        rline= regex.sub(' ',line)
+        print(line)
+        rline= regex.sub('',line)
         print(rline, end='')
 

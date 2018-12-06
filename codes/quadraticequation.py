@@ -16,4 +16,4 @@ else:
     x1 = (-b - sqrtdelta) /(2*a)
     x2 = c/(x1*a)
 
-print("Quadratic equation roots: x1={} , x2={}".format(x1,x2))
+print("Quadratic equation roots:\nx1={} \nx2={}".format(x1,x2))
